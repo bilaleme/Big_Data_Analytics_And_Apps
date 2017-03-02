@@ -13,3 +13,6 @@ https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-4-Re
 
 Lab Assignment 5 :
 https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-5-Report
+
+Lab Assignment 6 :
+https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-6-Report
