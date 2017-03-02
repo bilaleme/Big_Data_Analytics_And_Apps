@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageAndMaps</string>
+
+    <string name="title_activity_maps_">Maps_Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
