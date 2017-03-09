@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 94,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 258,
+                        "endColumn": 90,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 78,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 349,
+                        "endColumn": 74,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 83,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 424,
+                        "endColumn": 79,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 111,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 504,
+                        "endColumn": 107,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 191,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 612,
+                        "endColumn": 187,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 146,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 800,
+                        "endColumn": 142,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endColumn": 113,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 943,
+                        "endColumn": 109,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 84,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1053,
+                        "endColumn": 80,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 112,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1134,
+                        "endColumn": 108,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 113,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1243,
+                        "endColumn": 109,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 116,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1353,
+                        "endColumn": 112,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 87,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1466,
+                        "endColumn": 83,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endColumn": 223,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1550,
+                        "endColumn": 219,
+                        "endOffset": 1769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 224,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1770,
+                        "endColumn": 220,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 83,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 83,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 73,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 73,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2052,
+                    "endColumn": 66,
+                    "endOffset": 2114
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 66,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2119,
+                    "endColumn": 65,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 65,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 79,
+                    "endOffset": 2260
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 79,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2265,
+                    "endColumn": 77,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 77,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endColumn": 68,
+                    "endOffset": 2407
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-sr\\values-sr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 68,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2412,
+                    "endColumn": 102,
+                    "endOffset": 2510
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1991,
+                        "endColumn": 98,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2515,
+                    "endColumn": 109,
+                    "endOffset": 2620
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2090,
+                        "endColumn": 105,
+                        "endOffset": 2195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2625,
+                    "endColumn": 111,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2196,
+                        "endColumn": 107,
+                        "endOffset": 2303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 123,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 2304,
+                        "endColumn": 119,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 153,
+                    "endOffset": 3010
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 2424,
+                        "endColumn": 153,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3015,
+                    "endColumn": 104,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 2578,
+                        "endColumn": 100,
+                        "endOffset": 2678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 75,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 2679,
+                        "endColumn": 71,
+                        "endOffset": 2750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 86,
+                    "endOffset": 3278
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 2751,
+                        "endColumn": 82,
+                        "endOffset": 2833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3283,
+                    "endColumn": 100,
+                    "endOffset": 3379
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values-sr\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 0,
+                        "startOffset": 2834,
+                        "endColumn": 96,
+                        "endOffset": 2930
+                    }
+                }
+            }
+        ]
+    }
+]

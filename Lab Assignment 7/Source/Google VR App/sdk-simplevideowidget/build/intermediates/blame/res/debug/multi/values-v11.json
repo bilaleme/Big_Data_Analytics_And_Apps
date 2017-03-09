@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 10,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\gvr-samples\\gvr-android-sdk-master\\samples\\sdk-simplevideowidget\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]
