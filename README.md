@@ -19,3 +19,6 @@ https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-6-Re
 
 Lab Assignment 7 :
 https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-7-Report
+
+Lab Assignment 8 : 
+https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-8-Report
