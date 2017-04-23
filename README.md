@@ -28,3 +28,6 @@ https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-9-Re
 
 Lab Assignment 10:
 https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-10-Report
+
+Lab Assignment 11:
+https://github.com/bilaleme/Big_Data_Analytics_And_Apps/wiki/Lab-Assignment-11-Report
